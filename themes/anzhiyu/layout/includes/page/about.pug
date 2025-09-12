@@ -41,9 +41,9 @@ if site.data.about
             = title2
             .mask
               each wordItem, index in word
-                if index < word.length - 2
+                if index < word.length - 10
                   span(class=(index === 0 ? 'first-tips' : ''))= wordItem
-              span(data-up)= word[word.length - 2]
+              span(data-up)= word[word.length - 10]
               |  
               span(data-show)= word[word.length - 1]
       

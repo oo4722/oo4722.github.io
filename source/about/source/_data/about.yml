@@ -1,57 +1,57 @@
 - class_name: 关于页
-  subtitle: 生活明朗，万物可爱✨
-  avatarImg: https://npm.elemecdn.com/anzhiyu-blog-static@1.0.0/img/avatar.webp
+  subtitle: 地球online地图探索中
+  avatarImg: https://github.com/oo4722/blog-img/blob/main/img/IMG_1831.JPG
   avatarSkills:
     left:
-      - 🤖️ 数码科技爱好者
-      - 🔍 分享与热心帮助
-      - 🏠 智能家居小能手
-      - 🔨 设计开发一条龙
+      - 🐦 你身边的海鸥
+      - 🍄 蒙面真菌
+      - 😋 食族人激推bot
+      - 🤷‍♀️ 选择性失忆患者
     right:
-      - 专修交互与设计 🤝
-      - 脚踏实地行动派 🏃
-      - 团队小组发动机 🧱
-      - 壮汉人狠话不多 💢
-  name: 傻逼
-  description: 是一名 弱智
+      - 赚钱小皇帝 😎
+      - 拍照小天才 🥵
+      - 创意刷怪笼 🫦
+      - 未来知名IP孵化中 🐒
+  name: OO
+  description: 蘑菇
   aboutsiteTips:
-    tips: 追求
-    title1: 吃屎
-    title2: 拉大便
+    tips: 活着为了 
+    title1: 开地图
+    title2: 自由发挥
     word:
-      - 学习
-      - 生活
-      - 程序
-      - 体验
-  helloAbout: Hello there!
+      - 摄影但很久没摄
+      - 画画但还在鸽
+      - IP但还没搞好
+      - 在儿童读物上留名
+  helloAbout: 海鸥出击
   skillsTips:
-    tips: 技能
-    title: 开启创造力
+    tips:有啥会的
+    title:摄影
   careers:
-    tips: 生涯
-    title: 无限进步
+    tips: 鸟的前小半生
+    title:
     list:
-      - desc: EDU,软件工程专业
+      - desc: oocAt IP创作中
         color: "#357ef5"
-      - desc: EDU,软件工程专业
+      - desc: 这么看我好像没什么会的
         color: "#357ef5"
-      - desc: EDU,软件工程专业
+      - desc: 到处找钱捞算吗 饿不死
         color: "#357ef5"
-    img: https://bu.dusays.com/2023/04/21/644287166329b.png
+    img: https://github.com/oo4722/blog-img/blob/main/img/IMG_1831.JPG
   statistic:
     link: /archives
     text: 文章隧道
     cover: https://bu.dusays.com/2023/05/01/644f4b037b930.jpg
   map:
     title: 我现在住在
-    StrengthenTitle: 中国，长沙市
+    StrengthenTitle: 中国，福州市
     background: https://bu.dusays.com/2023/07/05/64a4c61cb20ef.jpg
     backgroundDark: https://bu.dusays.com/2023/07/05/64a4c63495ac5.jpg
   selfInfo:
     selfInfoTips1: 生于
-    selfInfoContentYear: 2002
-    selfInfoTips2: 湖南信息学院
-    selfInfoContent2: 软件工程
+    selfInfoContentYear: 2005
+    selfInfoTips2: SIVA
+    selfInfoContent2: 文产
     selfInfoTips3: 现在职业
     selfInfoContent3: 大三学生👨‍🎓
   personalities:
