@@ -41,9 +41,9 @@ if site.data.about
             = title2
             .mask
               each wordItem, index in word
-                if index < word.length - 10
+                if index < word.length - 2
                   span(class=(index === 0 ? 'first-tips' : ''))= wordItem
-              span(data-up)= word[word.length - 10]
+              span(data-up)= word[word.length - 2]
               |  
               span(data-show)= word[word.length - 1]
       
@@ -139,14 +139,14 @@ if site.data.about
       .author-content
         .author-content-item.personalities
           - let {author_name, personality_type, photo_url, personality_img, name_url, personality_type_color} = item.personalities
-          .author-content-item-tips 性格
+          .author-content-item-tips 这是我的咪
           span.author-content-item-title= author_name
           .title2(style=`color:${personality_type_color ? personality_type_color : "#ac899c"}`)= personality_type
           .post-tips
             | 在 
-            a(href='https://www.16personalities.com/', target='_blank', rel='noopener nofollow') 16personalities
+            a(href='https://www.16personalities.com/', target='_blank', rel='noopener nofollow') 还没有建好的一个地方
             |  了解更多关于 
-            a(target='_blank', rel='noopener external nofollow', href= name_url)= author_name
+            a(target='_blank', rel='noopener external nofollow', href= name_url)= personality_type
           .image
             img.no-lightbox(src=url_for(personality_img), alt='人格')
         .author-content-item.myphoto

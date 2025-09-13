@@ -1,6 +1,6 @@
 - class_name: 关于页
   subtitle: 地球online地图探索中
-  avatarImg: https://github.com/oo4722/blog-img/blob/main/img/IMG_1831.JPG
+  avatarImg: https://i.mji.rip/2025/09/13/df473302bde7660cd9a0d5ce1deb954e.jpeg
   avatarSkills:
     left:
       - 🐦 你身边的海鸥
@@ -19,25 +19,25 @@
     title1: 开地图
     title2: 自由发挥
     word:
-      - 摄影但很久没摄
-      - 画画但还在鸽
-      - IP但还没搞好
-      - 在儿童读物上留名
+      - 摄影
+      - 画画
+      - 旅行
+      - 游戏
   helloAbout: 海鸥出击
   skillsTips:
-    tips:有啥会的
-    title:摄影
+    tips: 有啥会的
+    title: 没啥会的来看看我的海鸥吧
   careers:
     tips: 鸟的前小半生
     title:
     list:
       - desc: oocAt IP创作中
         color: "#357ef5"
-      - desc: 这么看我好像没什么会的
+      - desc: 打工皇帝饿不死
         color: "#357ef5"
-      - desc: 到处找钱捞算吗 饿不死
+      - desc: 自驾地图探索中
         color: "#357ef5"
-    img: https://github.com/oo4722/blog-img/blob/main/img/IMG_1831.JPG
+    img: https://i.mji.rip/2025/09/13/087279206c60a267a365d37d538124f2.jpeg
   statistic:
     link: /archives
     text: 文章隧道
@@ -45,108 +45,67 @@
   map:
     title: 我现在住在
     StrengthenTitle: 中国，福州市
-    background: https://bu.dusays.com/2023/07/05/64a4c61cb20ef.jpg
+    background: https://i.mji.rip/2025/09/13/775cb34b6bcc100a263b653584b6a004.jpeg
     backgroundDark: https://bu.dusays.com/2023/07/05/64a4c63495ac5.jpg
   selfInfo:
     selfInfoTips1: 生于
     selfInfoContentYear: 2005
-    selfInfoTips2: SIVA
-    selfInfoContent2: 文产
+    selfInfoTips2: 银河系
+    selfInfoContent2: 猎户臂
     selfInfoTips3: 现在职业
     selfInfoContent3: 大三学生👨‍🎓
   personalities:
-    author_name: 执政官
-    personality_type: ESFJ-A
-    photo_url: https://bu.dusays.com/2023/07/05/64a4c63495ac5.jpg
-    personality_img: https://npm.elemecdn.com/anzhiyu-blog@2.0.8/img/svg/ESFJ-A.svg
+    author_name: 很少有人知道但他叫
+    personality_type: DRACO！
+    photo_url: https://i.mji.rip/2025/09/13/c7b5f414906ca943364c9c6ed3d754b3.png
+    personality_img: https://i.mji.rip/2025/09/13/c7b5f414906ca943364c9c6ed3d754b3.png
     name_url: https://www.16personalities.com/ch/esfj-%E4%BA%BA%E6%A0%BC
   maxim:
-    maxim_tips: 座右铭
-    maxim_top: 生活明朗，
-    maxim_bottom: 万物可爱。
-  buff:
+    maxim_tips: 上网
+    maxim_top: 只是一种娱乐方式
+    maxim_bottom: 勿扰。
     buff_tips: 特长
     buff_top: 脑回路新奇的 酸菜鱼
     buff_bottom: 二次元指数 MAX
+  buff:
+    buff_tips: 没啥想写的
+    buff_top: 推一下最近很爱听的
+    buff_bottom: 莉莉周她说的《爱人》吧
   game:
-    game_tips: 爱好游戏
-    game_title: 原神
-    game_uid: "UID: 125766904"
-    game_bg: https://bu.dusays.com/2023/04/22/64433bf26e25d.webp
+    game_tips: 最近在玩什么
+    game_title: 赛博朋克2077
+    game_uid: "Steam ID 76561199077477882"
+    game_bg: https://i.mji.rip/2025/09/13/be11e2903855685d3a9655bb6bf198f2.jpeg
   comic:
-    comic_tips: 爱好番剧
+    comic_tips: 爱看影视
     comic_title: 追番
     comic_list:
-      - name: 约定的梦幻岛
-        href: https://www.bilibili.com/bangumi/media/md5267750/?spm_id_from=666.25.b_6d656469615f6d6f64756c65.1
-        cover: https://bu.dusays.com/2023/05/27/647166c44b414.webp
-      - name: 咒术回战
-        href: https://www.bilibili.com/bangumi/media/md28229899/?spm_id_from=666.25.b_6d656469615f6d6f64756c65.1
-        cover: https://bu.dusays.com/2023/05/24/646db4398832e.webp
-      - name: 紫罗兰永恒花园
-        href: https://www.bilibili.com/bangumi/media/md8892/?spm_id_from=666.25.b_6d656469615f6d6f64756c65.1
-        cover: https://bu.dusays.com/2023/05/24/646db43983d99.webp
-      - name: 鬼灭之刃
-        href: https://www.bilibili.com/bangumi/media/md22718131/?spm_id_from=666.25.b_6d656469615f6d6f64756c65.1
-        cover: https://bu.dusays.com/2023/05/24/646db439856a0.webp
-      - name: JOJO的奇妙冒险 黄金之风
-        href: https://www.bilibili.com/bangumi/media/md135652/?spm_id_from=666.25.b_6d656469615f6d6f64756c65.1
-        cover: https://bu.dusays.com/2023/05/30/64760e38d651a.webp
+      - name: 银魂
+        href: https://www.bilibili.com/bangumi/play/ss38157?spm_id_from=333.337.0.0
+        cover: https://i.mji.rip/2025/09/13/cf1553e90d0258f686764289fbcd879f.webp
+      - name: 罗小黑战记
+        href: https://www.bilibili.com/bangumi/play/ss1733?spm_id_from=333.337.0.0
+        cover: https://i.mji.rip/2025/09/13/01cf3e71a1159c310c91c0166d2bb64f.webp
+      - name: CLANNNAD
+        href: https://www.bilibili.com/bangumi/play/ss1177?spm_id_from=333.337.0.0
+        cover: https://i.mji.rip/2025/09/13/662888b92961de883eb383464931f6f0.webp
+      - name: 小绿和小蓝
+        href: https://www.bilibili.com/bangumi/play/ss24438?spm_id_from=333.337.0.0
+        cover: https://i.mji.rip/2025/09/13/e80296daa98ee9b8563caefc3876a5aa.webp
+      - name: 轻音少女
+        href: https://www.bilibili.com/bangumi/play/ss1172?spm_id_from=333.337.0.0
+        cover: https://i.mji.rip/2025/09/13/7f717036f76c51c4bb0cbea1bdf0cebe.webp
   like:
-    like_tips: 关注偏好
-    like_title: 数码科技
-    like_bg: https://bu.dusays.com/2022/12/06/638f5f05ce1f7.jpg
-    like_bottom: 手机、电脑软硬件
+    like_tips: 吃喝玩乐都放这里了
+    like_title: 你鸟今天觅食了吗
+    like_bg: https://i.mji.rip/2025/09/13/4f37b5b0d695d161cc560f1218e6a07b.jpeg
+    like_bottom: 民以食为天
   music:
-    music_tips: 音乐偏好
-    music_title: 许嵩、民谣、华语流行
-    music_bg: https://p2.music.126.net/Mrg1i7DwcwjWBvQPIMt_Mg==/79164837213438.jpg
+    music_tips: 不高兴就听歌吧啦啦啦
+    music_title: 今夜的月色是多么美
+    music_bg: https://i.mji.rip/2025/09/13/dbba8ccfe8f5d0079129ad003251acfd.jpeg
     music_link: /music
   reward_list:
-    - name: 海阔蓝
-      amount: 8.8
-      datatime: 2023-03-28
-    - name: LK66
-      amount: 66.6
-      datatime: 2023-03-24
-    - name: 张时貳
-      amount: 6.6
-      datatime: 2023-01-22
-    - name: ZeroAf
-      amount: 9.9
-      datatime: 2022-12-14
-    - name: LuckyWangXi
-      amount: 6.6
-      datatime: 2022-12-14
-    - name: 刀中日月长
-      amount: 10
-      datatime: 2022-11-16
-    - name: 鹿啵包
-      amount: 10
-      datatime: 2022-11-08
-    - name: 疾速k
-      amount: 50
-      datatime: 2022-09-20
-    - name: 伴舟先生大霖子
-      amount: 4.03
-      datatime: 2022-10-27
-      suffix: 贝壳
-    - name: Magica_0x0
-      amount: 3.36
-      datatime: 2022-10-07
-      suffix: 贝壳
-    - name: 名字就是要短像这样
-      amount: 3.36
-      datatime: 2022-08-25
-      suffix: 贝壳
-    - name: Leviathan520
-      amount: 1.34
-      datatime: 2022-08-23
-      suffix: 贝壳
-    - name: 托马斯
-      amount: 10
-      datatime: 2022-08-19
-    - name: 哇是猫猫欸
-      amount: 1.34
-      datatime: 2022-08-19
-      suffix: 贝壳
+    - name: BT
+      amount: 5927
+      datatime: 2023-10-28

@@ -1,0 +1,50 @@
+- class_name: 开启创造力
+  creativity_list:
+    - name: 爱你
+      color: "#f6f0d8"
+      icon: https://i.mji.rip/2025/09/13/d049ba3ab86247031357e3b47232950d.png
+    - name: 尴尬
+      color: "#f6f0d8"
+      icon: https://i.mji.rip/2025/09/13/d3c36c46094a7a99b165c69b40af58b5.png
+    - name: Photoshop果咩咩咩
+      color: "#f6f0d8"
+      icon: https://i.mji.rip/2025/09/13/eb99ee1b7faa28e8879bedf6f61a314b.png
+    - name: 贴贴
+      color: "#f6f0d8"
+      icon: https://i.mji.rip/2025/09/13/ff973d9419d6c7ae5997eaf286a3032b.png
+    - name: 斯国一捏
+      color: "#f6f0d8"
+      icon: https://i.mji.rip/2025/09/13/a264da486ed4aa78ddbcf2426da6e9cf.png
+    - name: 加载中
+      color: "#f6f0d8"
+      icon: https://i.mji.rip/2025/09/13/80247520fbe1a0d75fe1fcff4935be5e.png
+    - name: 尴尬
+      color: "#f6f0d8"
+      icon: https://i.mji.rip/2025/09/13/2843611f2c437febe98eab7b545f4ae1.png
+    - name: 融化啦
+      color: "#f6f0d8"
+      icon: https://i.mji.rip/2025/09/13/8174c5abe1dcba4e06ac3e5354d9907a.png
+    - name: 被夹走啦
+      color: "#f6f0d8"
+      icon: https://i.mji.rip/2025/09/13/4860858167acdcc246adb541671e7396.png
+    - name: 嗯嗯
+      color: "#f6f0d8"
+      icon: https://i.mji.rip/2025/09/13/ce9137c2f68a6f0716fbb11583c28e16.png
+    - name: 饭团
+      color: "#f6f0d8"
+      icon: https://i.mji.rip/2025/09/13/f9a371705607c6b7bd6ec6692110c763.png
+    - name: 裹紧紧
+      color: "#f6f0d8"
+      icon: https://i.mji.rip/2025/09/13/8db9828b18b6ecd3875af89602c88544.png
+    - name: 好吃
+      color: "#f6f0d8"
+      icon: https://i.mji.rip/2025/09/13/7f5f68d41075979a2df21eebf27c23cf.png
+    - name: 我是串串
+      color: "#f6f0d8"
+      icon: https://i.mji.rip/2025/09/13/befc2457e1dbcfeaea4969be1a043e00.png
+    - name: 好困呀
+      color: "#f6f0d8"
+      icon: https://i.mji.rip/2025/09/13/1820d1fa16df5dcbefeb6b3373e8a9a8.png
+    - name: 晚安
+      color: "#f6f0d8"
+      icon: https://i.mji.rip/2025/09/13/7f8de2e0eda044f7f90e1797cc8dcb5c.png
