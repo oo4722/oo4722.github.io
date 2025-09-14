@@ -596,7 +596,7 @@ google_adsense:
 
 site_verification:
   - name: google-site-verification
-    content: <meta name="google-site-verification" content="CSiuVBxYkzlbrDdPGpSWyqbr3E5rOmXt90icRTE8b0U" />
+    content: CSiuVBxYkzlbrDdPGpSWyqbr3E5rOmXt90icRTE8b0U
   - name: baidu-site-verification
     content: code-xxx
   - name: msvalidate.01
