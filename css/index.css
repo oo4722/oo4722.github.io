@@ -23172,6 +23172,7 @@ a.categoryButton {
 }
 .categoryButtonText {
   padding-left: 21px;
+  color: #474747;
 }
 a.categoryButton svg,
 a.categoryButton i {
@@ -23185,18 +23186,19 @@ a.categoryButton i {
   text-align: center;
   filter: blur(2px);
   transform: scale(1) rotate(15deg);
+  color: #888888;
 }
 
 a.categoryButton.blue {
-  background: linear-gradient(to right, #358bff, #15c6ff);
+  background: linear-gradient(to right, #ffffff, #ffffff);
   background-size: 200%;
 }
 a.categoryButton.red {
-  background: linear-gradient(to right, #f65, #ffbf37);
+  background: linear-gradient(to right, rgb(255, 255, 255), #ffffff);
   background-size: 200%;
 }
 a.categoryButton.green {
-  background: linear-gradient(to right, #18e7ae, #1eebeb);
+  background: linear-gradient(to right, #ffffff, #ffffff);
   background-size: 200%;
 }
 
@@ -23219,7 +23221,7 @@ a.categoryButton:after {
   width: 1rem;
   left: 21px;
   height: 2px;
-  background: var(--anzhiyu-white);
+  background: var(--anzhiyu-black);
   content: "";
   border-radius: 1px;
   position: absolute;
@@ -23908,7 +23910,7 @@ div#swiper_container:hover {
   height: 100%;
   top: 0;
   left: 0;
-  box-shadow: 0 -109px 133px -9px #000000 inset;
+  box-shadow: 0 -0px 0px -0px #ffffff inset;
 }
 
 .topGroup .todayCard.hide {
