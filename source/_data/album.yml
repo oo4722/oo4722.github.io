@@ -1,0 +1,98 @@
+- class_name: 和bt在路上的每一天
+  path_name: /love
+  type: 2
+  description: 要和bt去这里这里那里那里
+  cover: https://i.mji.rip/2025/09/15/043e2c93f259dd0775a5f0834e9fd09b.jpeg
+  top_background: https://i.mji.rip/2025/09/15/e4ce44a9fc25d629a61200b674ab3475.jpeg
+  rowHeight: 220
+  limit: 10
+  lazyload: true
+  btnLazyload: true
+  url: true
+  top_link: /album
+  top_btn_text: 返回
+  album_list:
+    - date: 2022/10/26 01:00:00
+      content: 湘潭的一角。
+      address: 湖南湘潭
+      from: 再吃一口就减肥
+      image:
+        - https://bu.dusays.com/2023/04/09/64329399db122.webp
+    - date: 2022-10-25
+      content: 洛阳暴雨后的天空。
+      address: 河南洛阳
+      from: 紫菜卷
+      image:
+        - https://bu.dusays.com/2023/04/09/64329399db122.webp
+        - https://bu.dusays.com/2023/04/09/64329399db2e1.webp
+
+- class_name: 小动物们
+  path_name: /ugly cat
+  type: 1
+  description: 地球真正的主人
+  top_link: /album
+  top_btn_text: 返回
+  top_background: https://bu.dusays.com/2023/04/09/64329399cea5a.webp
+  cover: https://i.mji.rip/2025/09/15/359a9bad6d6a1ddd7e78d659e5e67452.jpeg
+  album_list:
+    - date: 2022-10-24
+      content: 老妹的画
+      image:
+        - https://bu.dusays.com/2023/04/09/643293997b92b.jpeg
+
+- class_name: 大学大学快毕业吧
+  path_name: /daily life so boring
+  type: 2
+  description: 很无聊的
+  cover: https://i.mji.rip/2025/09/15/08b8aa2db2e629e9d3dac751e955c4b9.jpeg
+  top_background: https://bu.dusays.com/2023/06/30/649e546ada7dd.webp
+  rowHeight: 220
+  limit: 10
+  lazyload: true
+  btnLazyload: false
+  url: false
+  top_link: /album
+  top_btn_text: 返回
+  album_list:
+    - date: 2022/10/26 01:00:00
+      content: 湘潭的一角。
+      address: 湖南湘潭
+      from: 再吃一口就减肥
+      image:
+        - https://bu.dusays.com/2023/04/09/64329399db122.webp
+    - date: 2022-10-25
+      content: 洛阳暴雨后的天空。
+      address: 河南洛阳
+      from: 紫菜卷
+      image:
+        - https://bu.dusays.com/2023/04/09/64329399db122.webp
+        - https://bu.dusays.com/2023/04/09/64329399db2e1.webp
+
+
+- class_name: 最认真拍的一集
+  path_name: /Photography
+  type: 2
+  description: 摄影艺考生能不能有点片发发
+  cover: https://i.mji.rip/2025/09/15/98f13ffdb619a2460c55997cde8de5b8.jpeg
+  top_background: https://bu.dusays.com/2023/06/30/649e546ada7dd.webp
+  rowHeight: 220
+  limit: 10
+  lazyload: true
+  btnLazyload: false
+  url: false
+  top_link: /album
+  top_btn_text: 返回
+  album_list:
+    - date: 2022/10/26 01:00:00
+      content: 湘潭的一角。
+      address: 湖南湘潭
+      from: 再吃一口就减肥
+      image:
+        - https://bu.dusays.com/2023/04/09/64329399db122.webp
+    - date: 2022-10-25
+      content: 洛阳暴雨后的天空。
+      address: 河南洛阳
+      from: 紫菜卷
+      image:
+        - https://bu.dusays.com/2023/04/09/64329399db122.webp
+        - https://bu.dusays.com/2023/04/09/64329399db2e1.webp
