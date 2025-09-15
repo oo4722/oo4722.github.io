@@ -1082,7 +1082,7 @@ friends_vue:
   vue_js: https://npm.elemecdn.com/anzhiyu-theme-static@1.1.1/friends/index.4f887d95.js
   apiurl: # 朋友圈后端地址
   top_tips: 使用 友链朋友圈 订阅友链最新文章
-  top_background:
+  top_background: https://i.mji.rip/2025/09/15/df34580f3410e1ab65022ff7f415f747.jpeg
 
 # 深色模式粒子效果canvas
 universe:
@@ -1090,7 +1090,7 @@ universe:
 
 # 页面卡片顶部气泡升起效果
 bubble:
-  enable: true
+  enable: false
 
 #  控制台打印信息
 console:

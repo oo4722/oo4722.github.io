@@ -104,3 +104,7 @@ deploy:
   type: git
   repo: git@github.com:oo4722/oo4722.github.io.git
   branch: main
+
+# 自动生成sitemap
+sitemap: 
+  path: sitemap.xml
