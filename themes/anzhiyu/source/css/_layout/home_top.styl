@@ -18,15 +18,18 @@
     #random-hover
       opacity: 1;
       padding-left: 2rem;
-      background: var(--anzhiyu-theme-op-deep);
-      backdrop-filter: blur(15px);
-      -webkit-backdrop-filter: blur(15px);
+      background: var(--anzhiyu-theme-op-deep)
+      backdrop-filter: blur(20px);
+      -webkit-backdrop-filter: blur(px);
       transform: translateZ(0);
       backface-visibility: hidden;
       transform-style: preserve-3d;
-      transition: 0.3s;
+      transition: opacity 0.3s, padding-left 0.3s
       background-size: 200%;
       cursor: pointer;
+      backdrop-filter: blur(15px)
+      -webkit-backdrop-filter: blur(15px)
+      
   #skills-tags-group-all .tags-group-wrapper
     margin-top: 7rem;
   #skills-tags-group-all
@@ -49,9 +52,11 @@
     .bannerText
       display: flex
       align-items: center
+      color: #b3b3b3ff
     i
       font-size: 80px;
       margin-left: 10px;
       line-height: 1;
+    
   +maxWidth1200()
     display: none;

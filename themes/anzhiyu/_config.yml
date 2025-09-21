@@ -610,7 +610,7 @@ site_verification:
 
 theme_color:
   enable: true
-  main: "#425AEF"
+  main: "#808080"
   dark_main: "#f2b94b"
   paginator: "#425AEF"
   #   button_hover: "#FF7242"
@@ -811,7 +811,7 @@ aside:
     enable: true
     content: 欢迎光临全家
   card_weixin:
-    enable: true
+    enable: false
     face: https://bu.dusays.com/2023/01/13/63c02edf44033.png
     backFace: https://bu.dusays.com/2023/05/13/645fa415e8694.png
   card_recent_post:
